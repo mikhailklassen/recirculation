@@ -6,4 +6,4 @@ This Jupyter Notebook aims to reproduce the type of neural network outlined in t
 
 The network is comprised of an input ("visible") layer with 4 neurons, fully connected to a hidden layer of 2 neurons, fully connected to the "visible" layer in a closed loop. The network aims to reconstruct the input vector from the hidden layer.
 
-The idea behind this network is similar to that of an autoencoders.
+The idea behind this network is similar to that of an autoencoder.
