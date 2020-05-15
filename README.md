@@ -1,6 +1,6 @@
 # Learning Representations by Recirculation
 
-Reproducing the results of "Learning Representations by Recirculation" (Hinton &amp; McClelland, 1988), presented at Neural Information Processing Systems, 1988, pages 358-366.
+Reproducing the results of "[Learning Representations by Recirculation](https://papers.nips.cc/paper/78-learning-representations-by-recirculation.pdf)" (Hinton &amp; McClelland, 1988), presented at Neural Information Processing Systems, 1988, pages 358-366.
 
 This Jupyter Notebook aims to reproduce the type of neural network outlined in this paper and the results of a simulation. The key interesting point of this paper is that the network weights are trained not via backpropagation, but instead by comparing the difference to an input vector after it is recirculated through the network.
 
